@@ -1,0 +1,4 @@
+__pycache__/
+*.pyc
+clientes.csv
+credencial.py
